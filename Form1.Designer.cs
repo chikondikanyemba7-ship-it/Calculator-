@@ -140,7 +140,6 @@ private System.ComponentModel.IContainer components = null;
         btnDivide.TabIndex = 16;
         btnDivide.Text = "÷";
         btnDivide.UseVisualStyleBackColor = true;
-        btnDivide.Click += button17_Click;
         txtDisplay.BackColor = SystemColors.InactiveCaption;
         txtDisplay.Font = new Font("Segoe UI", 39.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
         txtDisplay.Location = new Point(63, 21);
